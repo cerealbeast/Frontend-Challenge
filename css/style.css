@@ -6,6 +6,11 @@ body {
   background-color: #333333;
   font-family: sans-serif;
   font-size: 10px;
+  width: 375px;
+}
+
+.map {
+  width: 375px;
 }
 
 .container {
@@ -17,8 +22,13 @@ nav {
   margin: 1 auto;
   padding: 10px 0 15px 15px;
   position: fixed;
-  width: 420px;
+  width: 375px;
   background-color: purple;
+  color: white;
+}
+
+.statusbar {
+  background-color: white;
 }
 
 .busNumber {
