@@ -21,6 +21,12 @@ nav {
   background-color: purple;
 }
 
+.busNumber {
+  border-radius: 50%;
+  background-color: purple;
+  border: 2px solid white;
+}
+
 .busstop-list {
   padding-top: 10%;
   background-color:#FFFFFF;
