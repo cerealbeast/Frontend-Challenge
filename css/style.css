@@ -18,6 +18,10 @@ body {
   width: 420px;
 }
 
+.mapicon {
+  position: auto;
+}
+
 nav {
   margin: 1 auto;
   padding: 10px 0 15px 15px;
@@ -91,6 +95,10 @@ h1 {
   text-align: left;
 }
 
+.station {
+  margin-bottom: 1px;
+}
+
 h3 {
   font-size: 1.2em;
   font-weight: 100;
@@ -99,11 +107,14 @@ h3 {
   display: inline-block;
 }
 
+.time {
+  margin-top: 1px;
+}
+
 h2 {
   font-size: 2em;
   font-weight: 700;
   margin: 0px;
-  width: 300px;
   text-align: left;
   color: white;
 }
@@ -121,10 +132,11 @@ h4 {
   text-align: right;
   float: right;
   margin: 10px
-  background-color: purple;
+  color: purple;
 }
 
 .arrow-left {
   float: left;
   margin: 10px;
+  color: purple;
 }
