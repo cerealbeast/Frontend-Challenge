@@ -21,10 +21,15 @@ body {
 nav {
   margin: 1 auto;
   padding: 10px 0 15px 15px;
-  position: fixed;
+  position: auto;
   width: 375px;
-  background-color: purple;
-  color: white;
+  background-color: white;
+  color: black;
+}
+
+.dahsboard {
+  color: purple;
+  display: inline-block;
 }
 
 .statusbar {
