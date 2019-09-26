@@ -37,6 +37,11 @@ nav {
   border: 2px solid white;
 }
 
+.Purplecircle {
+  width: 50px;
+  display:inline-block;
+}
+
 .busstop-list {
   padding-top: 10%;
   background-color:#FFFFFF;
