@@ -12,7 +12,7 @@ body {
 .map {
   height: 375px;
   width: 100%;
-  background-image: url(..images/Map.png);
+  background-image: url(../images/Map.png);
 }
 
 .container {
