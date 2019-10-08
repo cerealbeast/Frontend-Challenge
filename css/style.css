@@ -7,6 +7,7 @@ body {
   font-family: sans-serif;
   font-size: 10px;
   width: 375px;
+  margin: auto;
 }
 
 .map {
@@ -35,15 +36,16 @@ nav {
 }
 
 .dahsboard {
+  font-size: 12px;
   color: #6448d1;
   display: inline-block;
 }
 .currentstop {
-  font-size: 12px;
+  font-size: 16px;
   color: black;
   display: inline-block;
   font-weight: 600;
-  margin-left: 45px;
+  margin-left: 10px;
 }
 
 .currentline {
@@ -82,14 +84,6 @@ nav {
 .busstop-list {
   padding-top: 10%;
   background-color:#FFFFFF;
-}
-
-.location:hover {
-  background-color:#F3F3F3;
-}
-
-.content:hover {
-  background-color:#F3F3F3;
 }
 
 section {
