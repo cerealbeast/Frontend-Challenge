@@ -111,14 +111,15 @@ ul {
 }
 
 li {
-  font-size: 1.7em;
-  font-weight: 900;
-  margin: 11px;
-  text-align: left;
+
 }
 
 .station {
   margin-bottom: 1px;
+  font-size: 1.7em;
+  font-weight: 900;
+  margin: 11px;
+  text-align: left;
 }
 
 .busline {
@@ -133,15 +134,12 @@ li {
   float: left;
 }
 
-h1 {
+.time {
+  margin-top: 15px;
   font-size: 1.2em;
   font-weight: 100;
   text-align: left;
   margin: 10px;
-}
-
-.time {
-  margin-top: 15px;
 }
 
 h2 {
