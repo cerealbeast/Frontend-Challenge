@@ -63,6 +63,7 @@ nav {
 .currentbus {
   background-color: #6448d1;
   color: white;
+  padding-top: 15px;
 }
 
 .statusbar {
@@ -112,7 +113,7 @@ ul {
 }
 
 li {
-
+  list-style: none;
 }
 
 .station {
