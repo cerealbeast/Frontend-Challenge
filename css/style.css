@@ -136,7 +136,7 @@ li {
   float: left;
   margin-left: 10px;
   margin-right: 10px;
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 .time {
@@ -170,6 +170,7 @@ h4 {
   margin: 10px
   color: #6448d1;
   padding-top: 20px;
+  display: inline-block;
 }
 
 .fa {
