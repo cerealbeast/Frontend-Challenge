@@ -134,6 +134,9 @@ li {
   padding-top: 18px;
   color: white;
   float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
 }
 
 .time {
